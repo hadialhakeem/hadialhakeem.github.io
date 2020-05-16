@@ -1,9 +1,15 @@
+/*global $*/
 $(document).ready(function(){
     // $("#name-title").html("🙏🏿");
     console.log('Hello world');
 
     $( "#projects-link" ).click(function() {
         $('html, body').animate({scrollTop: $('#projects').offset().top},
+            1000);
+    });
+
+    $( "#projects-link2" ).click(function() {
+        $('html, body').animate({scrollTop: $('#encryption').offset().top},
             1000);
     });
 
