@@ -12,6 +12,13 @@
 	-o-animation: fadeIn ease 3s;
 	-ms-animation: fadeIn ease 3s;
 }
+.fade-in-slower {
+	animation: fadeIn ease 4s;
+	-webkit-animation: fadeIn ease 4s;
+	-moz-animation: fadeIn ease 4s;
+	-o-animation: fadeIn ease 4s;
+	-ms-animation: fadeIn ease 4s;
+}
 @keyframes fadeIn {
 	0% {
 		opacity:0;
