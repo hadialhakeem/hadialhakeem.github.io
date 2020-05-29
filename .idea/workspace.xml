@@ -22,6 +22,8 @@
     <list default="true" id="5326c5b9-2f09-4b27-a77e-a55feaae249f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/fade.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bgsun.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590711870327</updated>
-      <workItem from="1590711871988" duration="11330000" />
+      <workItem from="1590711871988" duration="12996000" />
     </task>
     <servers />
   </component>
@@ -93,6 +95,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1590783954485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590783954485" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590736618027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
