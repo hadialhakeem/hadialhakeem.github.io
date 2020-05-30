@@ -1,6 +1,9 @@
 #personal-image {
 	border: solid gray 2px;
 }
+.blue-border {
+	border: solid #060d40 2px;
+}
 
 .fade-in {
 	animation: fadeIn ease 1s;
