@@ -2,6 +2,10 @@
 	border: solid gray 2px;
 }
 
+br{
+	display:block !important;
+}
+
 #blue-border {
 	border: solid #060d40 2px;
 }
