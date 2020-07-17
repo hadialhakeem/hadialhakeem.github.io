@@ -1,7 +1,5 @@
-# My Personal Website
+# My Personal Website / Portfolio
 
-A simple free personal portfolio website template in html, scss and javacript.
+Visit my website at https://hadihakeem.com
+s
 
-Visit my website at https://hadialhakeem.github.io
-
-# hadialhakeem.github.io
